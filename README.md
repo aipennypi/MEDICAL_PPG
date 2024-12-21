@@ -1,6 +1,6 @@
 <h1>Overview</h1>
-This project for extracting and analyzing heart rate data from video recordings. It combines techniques from computer vision, signal processing, and data visualization to provide insights into physiological signals. Future improvements may include optimizing the filtering process, enhancing peak detection algorithms, or implementing real-time processing capabilities.
-original auther of this code : CHANG YU PING Chen  Chung Cheng University, Thanks for his support and inspiration of this project.
+This project for extracting and analyzing heart rate data from video recordings. It combines techniques from computer vision, signal processing, and data visualization to provide insights into physiological signals. Future improvements may include optimizing the filtering process, enhancing peak detection algorithms, or implementing real-time processing capabilities.<br>
+original auther of this code :Dr. CHANG YU PING Chen  Chung Cheng University, Thanks for his support and inspiration of this project.
 <h1>How to run</h1>
 
 Run this script after modifying the path1 variable with the path to your video file containing fingertip PPG signals. Ensure to adjust the filter parameters (e.g., lowcut, highcut, fs) based on your specific signal characteristics.
